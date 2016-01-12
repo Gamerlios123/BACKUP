@@ -1,0 +1,6 @@
+﻿  Main_CS230.c
+c:\users\chronic\desktop\cs230 - simple demo\main_cs230.c(299): warning C4244: 'function': conversion from 's32' to 'float', possible loss of data
+c:\users\chronic\desktop\cs230 - simple demo\main_cs230.c(51): warning C4101: 'camZoom': unreferenced local variable
+c:\users\chronic\desktop\cs230 - simple demo\main_cs230.c(49): warning C4101: 'strBuffer': unreferenced local variable
+Main_CS230.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  CS230 - Simple Demo.vcxproj -> C:\Users\chronic\Desktop\CS230 - Simple Demo\Debug\CS230 - Simple Demo.exe

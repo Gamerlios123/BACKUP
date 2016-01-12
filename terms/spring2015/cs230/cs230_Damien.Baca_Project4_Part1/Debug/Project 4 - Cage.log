@@ -1,0 +1,22 @@
+﻿Build started 3/27/2015 10:09:16 PM.
+     1>Project "C:\Users\Tardis\Desktop\cs230_Damien.Baca_Project4_Part1\Project 4 - Cage.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Math2D.c
+         Math2D.c
+     1>c:\users\tardis\desktop\cs230_damien.baca_project4_part1\math2d.c(291): warning C4101: 'ReflecVector' : unreferenced local variable
+     1>c:\users\tardis\desktop\cs230_damien.baca_project4_part1\math2d.c(293): warning C4101: 'Vector' : unreferenced local variable
+     1>c:\users\tardis\desktop\cs230_damien.baca_project4_part1\math2d.c(338): warning C4101: 'Vector' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tardis\Desktop\cs230_Damien.Baca_Project4_Part1\Debug\Project 4 - Cage.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tardis\Desktop\cs230_Damien.Baca_Project4_Part1\Debug\Project 4 - Cage.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tardis\Desktop\cs230_Damien.Baca_Project4_Part1\Debug\Project 4 - Cage.lib" /MACHINE:X86 /SAFESEH Debug\GameStateMgr.obj
+         Debug\GameState_Play.obj
+         Debug\LineSegment2D.obj
+         Debug\main.obj
+         Debug\Math2D.obj
+         Debug\Matrix2D.obj
+         Debug\Vector2D.obj
+         Project 4 - Cage.vcxproj -> C:\Users\Tardis\Desktop\cs230_Damien.Baca_Project4_Part1\Debug\Project 4 - Cage.exe
+     1>Done Building Project "C:\Users\Tardis\Desktop\cs230_Damien.Baca_Project4_Part1\Project 4 - Cage.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.45
